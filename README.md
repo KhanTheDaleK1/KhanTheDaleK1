@@ -3,34 +3,62 @@
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/SYSTEM-UBUNTU-orange?style=for-the-badge&logo=ubuntu" />
-  <img src="https://img.shields.io/badge/ROLE-CYBER_OPS_ARCHITECT-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-OT_SYSTEMS_ENGINEER-blueviolet?style=for-the-badge" />
 </div>
 
-## // MISSION BRIEF
-I design and deploy tactical surveillance dashboards and centralized operation centers. My work focuses on visualizing real-time data—from local airspace traffic to system telemetry—using high-contrast, high-efficiency interfaces.
+## // PROFESSIONAL PROFILE
+**Name:** Evan Beechem
+**Current Role:** OT Systems Engineer at DIS-TRAN Steel, LLC
+**Location:** Pineville, Louisiana, United States
+**Industry Focus:** Industrial Automation, Operational Technology (OT), and Controls Engineering
 
-## // ACTIVE OPERATIONS
+## // PROFESSIONAL SUMMARY
+I am an OT Systems Engineer specializing in industrial automation, controls engineering, and operational technology networking across Industry 3.0, 4.0, and Industry 5.0 environments. My technical background includes extensive work with PLC programming, HMI/SCADA design, robotics integration, and smart manufacturing systems.
 
-### 📡 Project Overwatch
-**Tactical Air Traffic Surveillance**
-A "Night Vision" style radar interface tracking local airspace.
-- **Features:** Automated IFF (Identification Friend or Foe), local intelligence caching, and real-time NEXRAD overlays.
-- **Stack:** JavaScript, Leaflet.js, Python (Backend).
+My primary focus is on driving reliability, efficiency, and cybersecurity within connected plant architectures. I aim to bridge the gap between Information Technology (IT) and Operational Technology (OT) through data-driven automation, system integration, and industrial connectivity.
 
-### 🖥️ Station Dashboard
-**Central Command Interface**
-The primary hub for managing local infrastructure.
-- **Scope:** Integrates Ignition SCADA, OctoPrint (3D Printing), and Flight Tracking into a single "Cyber-Ops" glass pane.
+## // CORE COMPETENCIES & SKILLS
+*   **Industrial Automation:** PLC Programming, HMI Configuration, and Troubleshooting.
+*   **Networking & Security:** Network Design, Cybersecurity, and Firewalls (Fortinet).
+*   **SCADA Systems:** Ignition and SCADA design.
+*   **Hardware/Software:** Rockwell Automation (Allen Bradley), Siemens, and HMI Programming.
 
-### 🐍 Intel Gatherer
-**Autonomous Data Enrichment**
-A background Python service that watches the skies.
-- **Logic:** Detects new aircraft, fetches metadata/photos from external APIs, and builds a local dossier for instant retrieval.
+## // PROFESSIONAL EXPERIENCE
 
-## // ARSENAL
-*   **Core:** `Linux`, `Bash`, `Systemd`
-*   **Development:** `Python`, `JavaScript`, `HTML/CSS` (Matrix Aesthetic)
-*   **Infrastructure:** `Cloudflare Tunnels`, `Lighttpd`, `REST APIs`
+### OT Systems Engineer | DIS-TRAN Steel, LLC
+Pineville, Louisiana (On-site) | Oct 2025 – Present
+*   Currently focusing on Project Management and Network Design.
+
+### Electrical Engineer | Ta Chen International Inc.
+Texarkana, Texas (On-site) | Apr 2023 – Nov 2025
+*   Served in this role for over 2 years, focusing on electrical engineering tasks within a manufacturing environment.
+
+### Controls Field Service Technician | USNR
+Remote | Dec 2021 – Apr 2023
+*   Specialized in HMI Configuration and Industrial Automation.
+
+### Industrial Electrician | Weyerhaeuser
+Emerson, Arkansas | Mar 2021 – Dec 2021
+*   Focused on Industrial Automation.
+
+### Technician | Main Event
+Tulsa Metropolitan Area | Aug 2019 – Apr 2020
+*   Performed automation-related technical duties.
+
+## // LICENSES & CERTIFICATIONS
+*   **Ignition 8.3 Credential** – Inductive Automation (Issued Nov 2025)
+*   **NSE 2 Network Security Associate** – Fortinet (Issued Nov 2025)
+*   **NSE 1 Network Security Associate** – Fortinet (Issued Nov 2025)
+*   **HMI Design** – Online PLC Support Training Center (Issued Jun 2025)
+*   **PLC Support Training** – Online PLC Support Training Center (Issued Jan 2023)
+
+## // EDUCATION
+*   **Associate of Science (AS), Instrumentation Technology/Technician**
+    Oklahoma State University Institute of Technology - Okmulgee | 2017 – 2019
+*   **Previous Education:**
+    *   Eastern Oklahoma State College (Undergrad, 2016 – 2017)
+    *   Kiamichi Technology Center-Idabel (Pre-Engineering, 2015 – 2017)
+    *   Northeastern Oklahoma A&M College
 
 ---
 <div align="center">
