@@ -84,7 +84,9 @@ Tulsa Metropolitan Area | Aug 2019 – Apr 2020
 
 ## // GITHUB ANALYTICS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhanTheDaleK1&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanTheDaleK1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KhanTheDaleK1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ## // EDUCATION
