@@ -17,7 +17,6 @@
 </div>
 
 ## // PROFESSIONAL PROFILE
-| Attribute | Detail |
 | :--- | :--- |
 | **Name** | Evan Beechem |
 | **Role** | OT Systems Engineer |
