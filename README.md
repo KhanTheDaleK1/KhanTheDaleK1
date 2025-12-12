@@ -16,7 +16,9 @@
   </a>
 </div>
 
-## // PROFESSIONAL PROFILEs
+## // PROFESSIONAL PROFILE
+| Attribute | Detail |
+| :--- | :--- |
 | **Name** | Evan Beechem |
 | **Role** | OT Systems Engineer |
 | **Focus** | Industrial Automation, Industry 4.0, OT Security |
