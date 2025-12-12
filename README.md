@@ -46,11 +46,19 @@ Tulsa Metropolitan Area | Aug 2019 – Apr 2020
 *   Performed automation-related technical duties.
 
 ## // LICENSES & CERTIFICATIONS
-*   **Ignition 8.3 Credential** – Inductive Automation (Issued Nov 2025)
-*   **NSE 2 Network Security Associate** – Fortinet (Issued Nov 2025)
-*   **NSE 1 Network Security Associate** – Fortinet (Issued Nov 2025)
-*   **HMI Design** – Online PLC Support Training Center (Issued Jun 2025)
-*   **PLC Support Training** – Online PLC Support Training Center (Issued Jan 2023)
+<div align="left">
+  <!-- Inductive Automation -->
+  <img src="https://img.shields.io/badge/INDUCTIVE_AUTOMATION-IGNITION_8.3-F7901E?style=for-the-badge" alt="Ignition 8.3" />
+  
+  <!-- Fortinet -->
+  <img src="https://img.shields.io/badge/FORTINET-NSE_2_ASSOCIATE-C11920?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE 2" />
+  <img src="https://img.shields.io/badge/FORTINET-NSE_1_ASSOCIATE-C11920?style=for-the-badge&logo=fortinet&logoColor=white" alt="NSE 1" />
+  
+  <!-- PLC / HMI -->
+  <br/>
+  <img src="https://img.shields.io/badge/CERTIFIED-HMI_DESIGN-007ACC?style=for-the-badge" alt="HMI Design" />
+  <img src="https://img.shields.io/badge/CERTIFIED-PLC_SUPPORT-007ACC?style=for-the-badge" alt="PLC Support" />
+</div>
 
 ## // EDUCATION
 *   **Associate of Science (AS), Instrumentation Technology/Technician**
