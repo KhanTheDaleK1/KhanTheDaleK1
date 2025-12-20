@@ -42,11 +42,11 @@ My primary focus is on driving reliability, efficiency, and cybersecurity within
 ## // PROFESSIONAL EXPERIENCE
 
 ### OT Systems Engineer | DIS-TRAN Steel, LLC
-Pineville, Louisiana (On-site) | Oct 2025 – Present
+Pineville, Louisiana (On-site) | Oct 2023 – Present
 *   Leading project management and network design for critical OT infrastructure upgrades.
 
 ### Electrical Engineer | Ta Chen International Inc.
-Texarkana, Texas (On-site) | Apr 2023 – Nov 2025
+Texarkana, Texas (On-site) | Apr 2023 – Nov 2024
 *   Managed and executed diverse electrical engineering projects, ensuring operational continuity and efficiency in manufacturing.
 
 ### Controls Field Service Technician | USNR
@@ -75,6 +75,19 @@ Tulsa Metropolitan Area | Aug 2019 – Apr 2020
   <img src="https://img.shields.io/badge/CERTIFIED-HMI_DESIGN-007ACC?style=for-the-badge" alt="HMI Design" />
   <img src="https://img.shields.io/badge/CERTIFIED-PLC_SUPPORT-007ACC?style=for-the-badge" alt="PLC Support" />
 </div>
+
+## // GITHUB PROJECTS
+
+Here are some of the projects I've been working on:
+
+*   **[BCrackeRF (Wireless Diagnostic Tool)](https://github.com/KhanTheDaleK1/BCrackeRF)**: An open-source, customizable, and touch-friendly wireless diagnostic tool built on a Raspberry Pi 4.
+*   **[CalculusArm Dynamics Lab](https://github.com/KhanTheDaleK1/CalculusArm-Dynamics-Lab)**: An educational robotics platform for exploring calculus and trigonometry using a 3-axis robotic arm and a smart robot car.
+*   **[Ignition View Generator (IVG)](https://github.com/KhanTheDaleK1/Ignition-View-Generator)**: A developer tool that transforms YAML into Ignition Perspective Views.
+*   **[Evan Beechem's Personal Website](https://github.com/KhanTheDaleK1/Evan-Beechem)**: My personal portfolio website, featuring network monitoring dashboards and a "hacker terminal" aesthetic.
+*   **[Ops Site (Operational Tools)](https://github.com/KhanTheDaleK1/Ops-Site)**: A collection of operational tools, scripts, and a website for monitoring flights, managing feeds, and network analysis.
+*   **[RustDesk (Remote Desktop Solution)](https://github.com/KhanTheDaleK1/RustDesk)**: (Placeholder - assuming this is also one of your projects) A remote desktop solution written in Rust.
+
+---
 
 ## // HOMELAB & PRIVATE PROJECTS
 
