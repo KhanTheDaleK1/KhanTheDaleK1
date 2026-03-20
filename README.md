@@ -81,11 +81,15 @@ Tulsa Metropolitan Area | Aug 2019 – Apr 2020
 Here are some of the projects I've been working on:
 
 *   **[BCrackeRF (Wireless Diagnostic Tool)](https://github.com/KhanTheDaleK1/BCrackeRF)**: An open-source, customizable, and touch-friendly wireless diagnostic tool built on a Raspberry Pi 4.
-*   **[CalculusArm Dynamics Lab](https://github.com/KhanTheDaleK1/CalculusArm-Dynamics-Lab)**: An educational robotics platform for exploring calculus and trigonometry using a 3-axis robotic arm and a smart robot car.
-*   **[Ignition View Generator (IVG)](https://github.com/KhanTheDaleK1/Ignition-View-Generator)**: A developer tool that transforms YAML into Ignition Perspective Views.
+*   **[Calculus Labs](https://github.com/KhanTheDaleK1/calculus-labs)**: An educational robotics platform for exploring calculus and trigonometry using a 3-axis robotic arm and a smart robot car.
+*   **[Ignition View Generator (IVG)](https://github.com/KhanTheDaleK1/ignition-view-generator)**: A developer tool that transforms YAML into Ignition Perspective Views.
 *   **[Evan Beechem's Personal Website](https://github.com/KhanTheDaleK1/Evan-Beechem)**: My personal portfolio website, featuring network monitoring dashboards and a "hacker terminal" aesthetic.
-*   **[Ops Site (Operational Tools)](https://github.com/KhanTheDaleK1/Ops-Site)**: A collection of operational tools, scripts, and a website for monitoring flights, managing feeds, and network analysis.
-*   **[RustDesk (Remote Desktop Solution)](https://github.com/KhanTheDaleK1/RustDesk)**: (Placeholder - assuming this is also one of your projects) A remote desktop solution written in Rust.
+*   **[Ops Site (Operational Tools)](https://github.com/KhanTheDaleK1/ops-site)**: A collection of operational tools, scripts, and a website for monitoring flights, managing feeds, and network analysis.
+*   **[RustDesk](https://github.com/KhanTheDaleK1/rustdesk)**: A remote desktop solution written in Rust for high-performance connectivity.
+*   **[WiFi Camera Remote](https://github.com/KhanTheDaleK1/wifi-camera-remote)**: A remote control system for managing and streaming from WiFi-enabled cameras.
+*   **[Cosmic Rays](https://github.com/KhanTheDaleK1/cosmic-rays)**: An analytical project focused on cosmic ray detection and data visualization.
+*   **[Awesome Omichord](https://github.com/KhanTheDaleK1/Awesome-Omichord)**: A curated collection of resources, documentation, and tools for the Suzuki Omichord.
+*   **[Tape Echo Project](https://github.com/KhanTheDaleK1/Tape-echo-project)**: A software-based simulation or hardware controller for vintage tape echo effects.
 
 ---
 
@@ -97,7 +101,12 @@ Here are some of the projects I've been working on:
 
 ## // GITHUB ANALYTICS
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KhanTheDaleK1&theme=tokyonight&no-bg=true&margin-w=4" alt="Evan's GitHub Trophies" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=KhanTheDaleK1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&cache_seconds=1800" alt="Evan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanTheDaleK1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Evan's Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanTheDaleK1&theme=tokyonight&hide_border=true&background=0d1117" alt="Evan's GitHub Streak" />
 </div>
 
 ## // EDUCATION
